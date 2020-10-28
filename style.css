@@ -1,0 +1,51 @@
+h1{
+	color: red;
+	font-size: 100%;
+}
+ol{
+	color: blue;
+	font-size: 3em;
+}
+.addres{
+	color: gray;
+	font-size: 40pt;
+}
+.bg_yellow{
+	background-color: red;
+}
+#Riyad{
+	font-size: 20px;
+}
+#ariq{
+	color: #7b729e
+	
+}
+.ariqage{
+	color: rgba(255, 0, 51, .2);
+}
+.header {
+	min-height: 100%;
+	background-color: red;
+}
+h3{
+	display: inline;
+}
+.apple{
+	display: inline;
+}
+.orange{
+	display: inline;
+}
+.box{
+	
+}
+.blog{
+	min-height: 100%;
+	background-color: green;
+	width: 60;
+}
+.containt{
+	min-height: 100%;
+	background-color: blue;
+	width: 35;
+}
